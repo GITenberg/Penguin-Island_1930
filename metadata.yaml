@@ -1,6 +1,9 @@
 _repo: Penguin-Island_1930
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: L'ile des pingouins. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -16,6 +19,8 @@ creator:
 description: "Penguin Island (1908; French: L'Île des Pingouins) is a satirical fictional\
   \ history by Nobel Prize–winning French author Anatole France.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1930#Penguin-Island
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
